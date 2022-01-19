@@ -1,0 +1,2 @@
+He realizado también la instalación de grafana y la configuración del mismo como le enseñé en la bootcamp, simplemente para que me funcionara
+del todo, he instalado prometheus y con eso ya me cogía las métricas generadas por la app con la dependencia de actuator-prometheus.

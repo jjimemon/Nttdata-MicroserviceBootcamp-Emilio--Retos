@@ -1,0 +1,11 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+        exclude: 'beans'
+static_config:
+  - targets: ["localhost:8080"]
+        
+
+
